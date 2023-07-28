@@ -28,7 +28,7 @@ const Home = () => {
                 }}
             >
                 <Welcome 
-                    // Stopped at 48 min 
+                    // Stopped at 4p8 min 
 
                 />
                 <Popularjobs/>
